@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robisodd",
+    "enableMultiJS": true,
+    "longName": "radial",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "radial",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "1b84c35f-f09a-4c82-a0c9-8905bb49dbbf",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
